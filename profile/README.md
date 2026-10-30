@@ -1,3 +1,5 @@
+Currently tested: Hi3716cv200, Hi3798mv100, Hi3798mv200h.
+
 * Serial bootstrapper / HiTool replacement: [HiLoot](https://github.com/histb-mainline/hiloot)
 * Aarch64
   * [stage1](https://github.com/histb-mainline/histb-stage1)
