@@ -4,7 +4,8 @@ Currently tested: Hi3716cv200, Hi3798mv100, Hi3798mv200h.
 * Aarch64
   * [stage1](https://github.com/histb-mainline/histb-stage1)
   * [arm-trusted-firmware](https://github.com/histb-mainline/arm-trusted-firmware)
-* [Linux kernel](https://github.com/histb-mainline/linux)
-  * Prebuilt binaries: https://t.me/empstorage
+* [Linux kernel](https://github.com/histb-mainline/patches)
+  * [.config](https://github.com/histb-mainline/linux-config)
+  * [Tracker](https://github.com/histb-mainline/tracker/issues)
 * Discuss / permission request: https://matrix.to/#/!kqDWHhRQXxWTOdHXAY:matrix.org
 * Forum (3rd party): https://bbs.histb.com/t/design
